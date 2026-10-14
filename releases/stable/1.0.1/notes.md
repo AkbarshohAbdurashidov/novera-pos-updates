@@ -1,0 +1,2 @@
+Avtomatik yangilanish qo'shildi
+
