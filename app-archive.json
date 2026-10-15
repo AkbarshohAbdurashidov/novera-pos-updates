@@ -49,11 +49,19 @@
       "channel": "stable",
       "mandatory": false,
       "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.0.3/build-4/windows/release.json"
+    },
+    {
+      "version": "1.0.4",
+      "buildNumber": 5,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.0.4/build-5/windows/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-9685aecfd160556020fb897e",
-    "value": "NvBapo9vBRsvtTHeyEkVh11MX0k0cSETAA0aFkl5Vjf0QXpj8Pao0gijbNWeK8afXCbokH3MLtAY3Ab/TFvEDw=="
+    "value": "cORy/bGgxLr59MBI/zFCjcb6y1cXHZOM0cLZJl9AlnmQl+fjXHDFKWiS64jbk6FoTjtFCKZg9EqKJ3kqhXkTDg=="
   }
 }
