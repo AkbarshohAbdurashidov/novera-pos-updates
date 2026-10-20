@@ -83,6 +83,14 @@
       "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.0.1/build-2/windows/release.json"
     },
     {
+      "version": "1.0.10",
+      "buildNumber": 11,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.0.10/build-11/windows/release.json"
+    },
+    {
       "version": "1.0.2",
       "buildNumber": 3,
       "platform": "windows",
@@ -150,6 +158,6 @@
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-9685aecfd160556020fb897e",
-    "value": "DPWIpJvAKW61BFw5Z17QoSV+BG+lFLdBEXX6dp3TfQTzm07fonDLDJL0OZH99fOvdlamhyemJZrGAx2mYrTVBA=="
+    "value": "Y8yyxChJwl4RJZyv6vx+OWXPqy6QujVOTeGvCEgdKsNKROEhLoY5WkHSJCRf2kAVydURtRvKp9JiobZEtmucBw=="
   }
 }
