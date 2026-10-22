@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "uz.negative.cashier",
+  "appName": "NoveraPOS",
+  "version": "1.0.17",
+  "buildNumber": 18,
+  "platform": "macos",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.0.17/build-18/macos/NoveraPOS-1.0.17-macos.zip",
+    "sha256": "258a8f3f1416ffef8c6e6ae8622566d35f19072bf86e5e9412b3b430e131a088",
+    "length": 29010929
+  },
+  "install": {
+    "strategy": "wholeBundleReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-9685aecfd160556020fb897e",
+    "value": "pqOAQtfVHlAx+en6KlZJz5vzAIwpeqOdIzDi2D7djLFOEd7QEjSULboW6dYaHe1sKjf9X1+zMdDzAlUd+rWnCA=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-10-22T10:59:59.576577Z"
+}
