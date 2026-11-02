@@ -329,11 +329,19 @@
       "channel": "stable",
       "mandatory": false,
       "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.1.4/build-26/windows/release.json"
+    },
+    {
+      "version": "1.1.5",
+      "buildNumber": 27,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.1.5/build-27/windows/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-9685aecfd160556020fb897e",
-    "value": "CJRMKAmd2QAu1rpn6y0SN7EL2Y72sa6YVKt0umi6PQTcNEtsbd/pJ9SAer+kFxuAOwbIj4V2MsXpXK+rlMPMAA=="
+    "value": "8u6kCcXGqJjdqDUOoE6U9NvQQa4rsI4SWJ81CHoA2WXSiTLgbHe/cx39kBusvsoayvcH1uilcviDlEdH4ePECw=="
   }
 }
