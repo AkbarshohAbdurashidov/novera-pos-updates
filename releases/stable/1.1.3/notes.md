@@ -1,0 +1,6 @@
+- Narx kiritish: "." ham "," ham kasr nuqtasi; minglar yozayotganda "," bilan ajraladi (1,250,000.50).
+- Pul hamma joyda bir xil va aniq: 45,000.00 so'm — ekranda, hisobotda, chek va yorliqda.
+- Yaxlitlash olib tashlandi: kiritilgan narx kassada ham, boshqa joylarda ham o'zgarmay ko'rinadi; chegirma tiyinigacha.
+- Kategoriyalar daraxt ko'rinishida: ota kategoriya ochilib, ichidagilari chiqadi; qidiruv; kassada ota va bo'limlar chiplar qatorida.
+- Administrator paneli faqat SmartShop jamoasiga; direktorda «Filiallar» plitkasi; ruxsat o'zgarsa bo'limlar darhol yangilanadi.
+- Smena ochishda 12.5 kabi kasr summa endi to'g'ri qabul qilinadi.
