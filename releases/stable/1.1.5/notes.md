@@ -1,0 +1,5 @@
+- Direktor panelida yangi «Ombor qoldig'i» hisoboti: avval filiallar ro'yxati, filial bosilganda uning qoldig'i to'liq ochiladi.
+- Qoldiq kategoriyalar bo'yicha ko'rsatiladi (ota kategoriya → ichki kategoriya → tovar): har birida tovar soni, jami dona, tannarx va sotuv narxidagi summa, foyda va umumiy summadagi ulushi.
+- Har bir tovar: qoldig'i, tannarxi, sotuv narxi va summasi; keng ekranda jadval, telefonda ixcham ko'rinish, summalar kesilmaydi.
+- Qidiruv (nom, SKU, shtrix-kod), summa / qoldiq / nom bo'yicha tartiblash, hammasini ochish va yig'ish.
+- Tannarxi kiritilmagan tovarlar alohida ogohlantirish bilan ko'rsatiladi va bir bosishda ro'yxati ochiladi.
