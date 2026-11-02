@@ -1,0 +1,3 @@
+- Yetkazib beruvchi qo'shish va tahrirlash qaytdi: endi serverdagi `supplier:manage` ruxsati bilan ochiladi.
+- Ruxsatsiz tugmalar yashiriladi: yetkazib beruvchi kartochkasi, kirimdagi «Qarzga yozish», kategoriyalarni tahrirlash va arxivlash.
+- Kategoriyalar sahifasi ruxsat o'zgarsa darhol yangilanadi.
