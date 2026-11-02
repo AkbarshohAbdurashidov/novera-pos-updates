@@ -1,0 +1,9 @@
+- Qurilish mollari do'konlari uchun: kassa ro'yxat ko'rinishida, o'lchanadigan tovarda miqdor so'raladi, material kalkulyatori (`calculator` moduli).
+- Chek holati endi «Qarzga» / «To'landi» bo'lib ko'rinadi; qarz daftarida olingan tovarlar va chek raqami, aynan bitta chekni to'lash.
+- Korxona valyutasi (so'm, $, ₽, €) — ilova va chekda shu belgi.
+- «Mehmon» roli: kassa va bo'limlar faqat ko'rish rejimida.
+- Filiallararo ko'chirish: skanersiz rejim, ombordagi tovarlarni filtr va kategoriya bo'yicha tanlab, hammasini birdan jo'natish.
+- Direktor va admin kirgandan keyin filialni tanlaydi; ruxsat o'zgarsa ekran darhol yangilanadi.
+- Administrator paneli: korxonalar, to'lovlar, filiallar va modullar, xodim ruxsatlari.
+- Ishlab chiqarish va retseptlar (`production` moduli).
+- Yangilanishdan keyin tovarlar keshi bir marta tozalanib, serverdan qayta yuklanadi (yuborilmagan cheklar saqlanadi).
