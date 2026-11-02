@@ -139,6 +139,14 @@
       "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.1.0/build-22/macos/release.json"
     },
     {
+      "version": "1.1.2",
+      "buildNumber": 24,
+      "platform": "macos",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.1.2/build-24/macos/release.json"
+    },
+    {
       "version": "1.0.1",
       "buildNumber": 2,
       "platform": "windows",
@@ -294,6 +302,6 @@
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-9685aecfd160556020fb897e",
-    "value": "a3RTNteS7tNx64tO0+7wy7Xe3IIBCUTVjRc97t1PWVtA9zA5aI3SuAssGSKZms35cboZEEu6bRfziV2H0A2gCw=="
+    "value": "Qs+vpIXOnV76knGal8PmkxA/MC6cpgkk3s/7JUIv5obuYkZvcB6wwL4VTTZ4/kkJRsBVW/67fpcw8sXKVBENCQ=="
   }
 }
