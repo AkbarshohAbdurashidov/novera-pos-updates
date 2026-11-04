@@ -1,0 +1,9 @@
+- P2P savdo (`p2p` moduli): kassada bo'sh savatdagi «P2P savdo» kartasi shu savatni P2P bitimiga aylantiradi, boshqa cheklarga o'tsangiz ham saqlanib turadi. Telefonda pastki menyuda alohida «P2P» bo'limi bor.
+- Telefondagi «Hisobot» bo'limi yangilandi: biznes turiga qarab serverdagi haqiqiy savdo va pul ma'lumotlari ko'rsatiladi.
+- Chegirma sozlamasi (Sozlamalar → Chek → Chegirma): «Foiz va summa», «Faqat summa» yoki «Faqat foiz». «Faqat summa» tanlansa foiz hech qayerda ko'rinmaydi.
+- Qarzdorlar: ma'lumotlarini tahrirlash mumkin (`debt:update` ruxsati bilan). Bir xil raqamli turli odamlarning qarzlari endi qo'shilib ketmaydi.
+- Xarajatlar bo'limi va shaxsiy qarzlardagi yangiliklar.
+- Bildirishnomalar sozlamasi: printer xabarlari va boshqa holat xabarlarini alohida o'chirish mumkin (standart holatda hammasi yoqiq).
+- Har bir korxonaning sozlamalari alohida saqlanadi va boshqa korxonaga o'tmaydi.
+- Menyu va tugmalar serverdagi modul va ruxsatlarga qarab ko'rsatiladi: smena ochish/yopish, chekni bekor qilish va tannarxni ko'rish.
+- Filiallararo ko'chirishda kategoriya bo'yicha tanlash tuzatildi: belgilanmagan ichki kategoriya tovarlari endi qo'shilib ketmaydi.
