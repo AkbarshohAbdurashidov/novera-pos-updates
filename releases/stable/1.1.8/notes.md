@@ -1,0 +1,7 @@
+- Qarz daftari: «O'chirish» endi qarzdorni arxivga oladi. «To'landi (arxiv)» ro'yxatidan qaytarish, bittasini yoki butun arxivni butunlay o'chirish mumkin (tasdiq bilan).
+- Qarz to'lovi doim filialga yoziladi. Tarixda «Shaxsiy qarzga o'tkazildi» va «Chegirma» yozuvlari ko'rinadi.
+- Korxona sozlamasi bilan: qisman to'lovda chek tanlash majburiy; chek qoldig'ini mijozning shaxsiy qarziga o'tkazish (kassirga menejer PIN yoki direktor paroli bilan tasdiq); qarz daftarida chegirma.
+- Shaxsiy qarzlar: chekdan o'tgan qarz «Chekdan» belgisi bilan chiqadi, unga ustiga yozib bo'lmaydi, to'lovini faqat direktor qabul qiladi.
+- Admin panelida korxonaning qarz daftari sozlamalari (4 ta kalit).
+- Cheklarda mijoz ismi, direktorga filial nomi, tovar ostida kategoriya yo'li. Yangi holatlar: «Qisman» va «Shaxsiy qarzga o'tdi».
+- Hisobot va panelda yangi summalar: shaxsiy qarzga o'tgan, shaxsiy qarzdan tushum, qarz chegirmasi (faqat 0 dan katta bo'lsa).

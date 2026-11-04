@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "cashier",
+  "appName": "NoveraPOS",
+  "version": "1.1.8",
+  "buildNumber": 30,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://akbarshohabdurashidov.github.io/novera-pos-updates/releases/stable/1.1.8/build-30/windows/NoveraPOS-1.1.8-windows.zip",
+    "sha256": "41de361586d429d4fb5e52777c9cb780dbf72647f8cf03c82006f2d9247104b5",
+    "length": 25277534
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-9685aecfd160556020fb897e",
+    "value": "dJYx3/HZ5au8dEvRcWiZCQb7Yh6Py1lb2WpSMbzL9LTS85KLDdplLFAB7aglReVFoDJ33HrIDghHSX3ByGrVBA=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-11-04T16:56:13.930411Z"
+}
