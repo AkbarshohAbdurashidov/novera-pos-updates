@@ -1,0 +1,3 @@
+- Qarz daftari: direktor tepadagi tanlagich bilan filialni almashtiradi — «Barcha filiallar» yoki bitta filial daftari. Kassa va ombordagi filial tanlovi o'zgarmaydi.
+- Cheklar: kun bo'yicha filtr — «Hammasi», «Bugun», «Kecha» yoki kalendardan sana; tanlangan kunda ‹ › tugmalari bilan oldingi/keyingi kunga o'tish. Tushum kartasi tanlangan kun bo'yicha.
+- Filtr bo'yicha chek bo'lmasa ham filtr paneli qoladi (desktop'da ham).
