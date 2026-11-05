@@ -1,0 +1,1 @@
+- Yangilanishlar endi yangi serverdan keladi (GitLab). Bu versiyani o'rnatgandan keyin keyingi yangilanishlar ham avvalgidek o'zi chiqadi.
