@@ -1,0 +1,3 @@
+- «Bron» tugmasi endi to'lov oynasida, «Qarzga» yonida — qidiruv qatori kengroq.
+- Ombor → tovar: katta rasm, bir nechta rasm bo'lsa varaqlash, bosilsa to'liq ekranda kattalashtirish.
+- Kassa ekrani tezlashdi: kuchsiz kompyuterlarda qidiruv, tovar ro'yxati va to'lov oynasi yengilroq ishlaydi, katalog yuklanganda ekran qotmaydi.
