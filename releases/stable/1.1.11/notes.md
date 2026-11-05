@@ -1,0 +1,4 @@
+- 1.1.10 ning hamma o'zgarishlari (desktop uchun 1.1.10 chiqmagan edi):
+- Yangi «Bron» bo'limi (filialda yoqilsa): tovarni mijozga ko'rsatish uchun vaqtincha band qilish. Kassada «Bron» tugmasi, «Bronlar» ro'yxatida «Qaytdi», «Sotib olindi», «Yo'qoldi», muddat va izohni o'zgartirish. Muddati o'tgan bronlar qizil.
+- Direktor panelida «Hozir bronda: N ta · muddati o'tgan M ta» qatori.
+- Qarz daftari: chegirmani chek tanlamasdan umumiy qarzga ham berish mumkin; «To'liq» tugmasi chegirmani hisobga oladi.
